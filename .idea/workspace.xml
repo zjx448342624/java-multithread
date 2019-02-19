@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="144442ed-dbe1-4da7-ad17-bc9b252374fb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/基础概念.md" beforeDir="false" afterPath="$PROJECT_DIR$/基础概念.md" afterDir="false" />
-    </list>
+    <list default="true" id="144442ed-dbe1-4da7-ad17-bc9b252374fb" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +54,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -69,21 +67,7 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="java-multithread" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-multithread" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -139,15 +123,15 @@
       <option name="presentableId" value="Default" />
       <updated>1550492280427</updated>
       <workItem from="1550492282143" duration="1922000" />
-      <workItem from="1550569666110" duration="273000" />
+      <workItem from="1550569666110" duration="604000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2195000" />
+    <option name="totallyTimeSpent" value="2526000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.24962178" />
