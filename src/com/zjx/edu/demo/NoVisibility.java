@@ -9,6 +9,7 @@ public class NoVisibility {
     private static Object lock;
 
     public static void main(String[] args) {
+        System.out.println(READ);
 
         new Thread(() -> {
             synchronized (lock){
@@ -26,6 +27,4 @@ public class NoVisibility {
         System.out.println("main OK" );
 
     }
-
-
 }
